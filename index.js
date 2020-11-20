@@ -109,6 +109,12 @@ function HttpAccessory(log, config) {
                         .setValue(that.state);
                     }
                     break;
+                case "ACCooler":
+                    if (that.lightbulbService) {
+                        that.lightbulbService.getCharacteristic(Characteristic.On)
+                        .setValue(that.state);
+                    }
+                    break;
             }
             that.enableSet = true;
         });
