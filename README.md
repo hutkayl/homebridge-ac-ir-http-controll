@@ -1,1 +1,1 @@
-# homebridge_http_ac_ir_plugin
+# homebridge-ac-ir-http-controll
