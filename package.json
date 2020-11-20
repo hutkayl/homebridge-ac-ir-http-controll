@@ -1,5 +1,5 @@
 {
-  "name": "homebridge-http",
+  "name": "homebridge_http_ac_ir_plugin",
   "version": "0.0.9",
   "description": "http(s) plugin for Homebridge: https://github.com/nfarina/homebridge",
   "license": "ISC",
@@ -11,15 +11,11 @@
     "homebridge": ">=0.2.0"
   },
   "author": {
-    "name": "Adrian Rudman"
+    "name": "Laszlo HUTKAY"
   },
-  "contributors":[
-  { "name" : "NovaGL"},
-  { "name" : "David Parry"}
-  ], 
   "repository": {
     "type": "git",
-    "url": "git://github.com/rudders/homebridge-http.git"
+    "url": "git://github.com/hutkayl/homebridge_http_cs_ir_plugin.git"
   },
   "dependencies": {
     "request": "^2.65.0",
