@@ -1,5 +1,5 @@
 {
-  "name": "homebridge_http_ac_ir_plugin",
+  "name": "homebridge-ac-ir-http-controll",
   "version": "0.0.9",
   "description": "http(s) plugin for Homebridge: https://github.com/nfarina/homebridge",
   "license": "ISC",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/hutkayl/homebridge_http_cs_ir_plugin.git"
+    "url": "git://github.com/hutkayl/homebridge-ac-ir-http-controll.git"
   },
   "dependencies": {
     "request": "^2.65.0",
